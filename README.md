@@ -1,2 +1,3 @@
-# Machine-Learning-Techniques-
+# Machine-Learning-Techniques
 IITM BSc MLT Course Codes
+
